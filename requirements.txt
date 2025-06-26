@@ -1,0 +1,20 @@
+# Core
+openai
+feedparser
+requests
+beautifulsoup4
+
+# CLI/자동 실행용 (옵션)
+python-dotenv
+
+# Git 작업용
+GitPython
+
+# Streamlit UI
+streamlit
+
+# (선택) 디렉토리 구조 시각화용 tree 명령 사용 시 필요:
+# Linux/Mac에는 기본 설치되어 있지만 Windows는 따로 구성 필요
+
+# Jupyter 테스트용 (선택)
+# jupyter
