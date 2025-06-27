@@ -5,22 +5,22 @@ labels: ["enhancement"]
 body:
   - type: textarea
     attributes:
-      label: 🚀 어떤 기능인가요?
-      description: 구현하고자 하는 기능에 대해 설명해주세요
-      placeholder: 예: Streamlit에서 요약 결과를 Markdown으로 다운로드
+      label: "🚀 어떤 기능인가요?"
+      description: "구현하고자 하는 기능에 대해 설명해주세요"
+      placeholder: "예: Streamlit에서 요약 결과를 Markdown으로 다운로드"
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: 🔧 예상 구현 방식
-      description: 간단하게 예상 구현 흐름을 적어주세요
+      label: "🔧 예상 구현 방식"
+      description: "간단하게 예상 구현 흐름을 적어주세요"
     validations:
       required: false
 
   - type: textarea
     attributes:
-      label: 📌 참고 사항
-      description: 관련 링크, 노트 등
+      label: "📌 참고 사항"
+      description: "관련 링크, 노트 등"
     validations:
       required: false
